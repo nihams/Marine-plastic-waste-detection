@@ -1,0 +1,26 @@
+<annotation>
+	<folder>i</folder>
+	<filename>20181023_155746_0f34_16710-29826-16.jpg</filename>
+	<path>C:\Users\shreya\Desktop\project\dataset\train\images\second\i\20181023_155746_0f34_16710-29826-16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cloud</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>110</xmax>
+			<ymax>76</ymax>
+		</bndbox>
+	</object>
+</annotation>
